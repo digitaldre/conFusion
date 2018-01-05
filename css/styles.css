@@ -37,3 +37,7 @@ body{
 .navbar-inverse {
      background-color: #512DA8;
 }
+
+p {
+  font: 17px arial, sans-serif;
+}
